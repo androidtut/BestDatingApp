@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Users" android:enabled="false"/>
+    <group>
+        <item android:menuCategory="container" android:id="@+id/share" android:title="Share" android:icon="@drawable/share" />
+        <item android:id="@+id/whatsapps" android:title="WhatSapp" android:icon="@drawable/whatsapp" />
+        <item android:id="@+id/exits" android:title="Exit" android:icon="@drawable/exit" />
+    </group>
+
+</menu>
